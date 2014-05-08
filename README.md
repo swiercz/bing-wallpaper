@@ -22,6 +22,10 @@ and then
 * run `crontab bing-cron` to setup the cronjob.
 * for Mac users: `system preferences` -> `desktop and screensaver`, add your wallpaper directory and set the auto changement i.e. to 15 mins
 
+Problems?
+--------
+
 In case of problems with gawk command please check if you have gawk installed and the GAWK variable in **bing-wallpaper.sh** is set to the path from `which gawk`
+
 In non-Mac systems you must set the wallpaper directory in system settings at your own. Feel free to send me some instructions for other OSes to be put here.
 
