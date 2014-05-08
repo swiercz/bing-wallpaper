@@ -1,0 +1,2 @@
+#min   hour       mday  month  wday   command                                  logging
+20     9-20/2     *     *      *      /Users/memek/.bing-wallpaper/bing-wallpaper.sh 2>&1 >> /Users/memek/.bing-wallpaper/log.log
